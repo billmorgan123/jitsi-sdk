@@ -104,15 +104,15 @@
 }
 
 div.hangup-button {
-    background-color: #2800f0;
+    background-color: #CB2233;
 
     @media (hover: hover) and (pointer: fine) {
         &:hover {
-            background-color: #2400f2;
+            background-color: #E04757;
         }
 
         &:active {
-            background-color: #0010ed;
+            background-color: #A21B29;
         }
     }
 
